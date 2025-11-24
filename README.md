@@ -171,6 +171,3 @@ This repository is suitable for the **MIT License**. Add a `LICENSE` file with t
 - Use clear variable names and add inline comments when you adapt scripts for your own datasets.  
 - If you want, I can generate ready‑to‑paste `requirements.txt`, `.gitignore`, and `LICENSE` files or produce cleaned, runnable versions of each script.
 
----
-
-**Copy this README into your repository root as README.md and update file paths, author name, and license year as needed.**
