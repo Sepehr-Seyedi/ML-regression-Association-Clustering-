@@ -156,12 +156,6 @@ python clustering/kmeans_evaluation.py
 **License recommendation**  
 This repository is suitable for the **MIT License**. Add a `LICENSE` file with the MIT text and your name and year.
 
-**Contributing guidelines**
-
-- Fork the repository and create a feature branch.  
-- Open a pull request with a clear description of changes.  
-- Include tests or example outputs for new functionality.  
-- Keep changes focused and document any new dependencies in `requirements.txt`.
 
 ---
 
